@@ -2,7 +2,7 @@
 
 🚀 Frontend Developer | React.js | Next.js | UI Enthusiast
 
-![alt text](https://i.ibb.co.com/5X4sD47X/riad.png)
+![Profile Banner](https://i.ibb.co.com/5X4sD47X/riad.png)
 
 ---
 
@@ -34,11 +34,21 @@ I enjoy creating clean UI designs, smooth animations, and performance-optimized 
 
 ## 📂 Featured Projects
 
-### 🌟 Portfolio Website
-A modern personal portfolio built with React and Tailwind CSS featuring smooth animations and responsive design.
+### 🌟 Project One (Coming Soon)
+> 🚧 Description will be added soon  
+Tech Stack: React | Tailwind | API  
 
-### 🛠️ UI Components Library
-Reusable UI components built using Tailwind CSS and DaisyUI for faster development.
+---
+
+### 🛠️ Project Two (Coming Soon)
+> 🚧 Description will be added soon  
+Tech Stack: Next.js | Tailwind | Framer Motion  
+
+---
+
+### ⚡ Project Three (Coming Soon)
+> 🚧 Description will be added soon  
+Tech Stack: React | Firebase | REST API  
 
 ---
 
