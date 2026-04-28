@@ -63,9 +63,9 @@ Tech Stack: React | Firebase | REST API
 
 ## 📫 Contact Me
 
-- 📧 Email: your-email@example.com  
-- 💻 GitHub: https://github.com/your-username  
-- 🌐 Portfolio: https://your-portfolio-link.com  
+- 📧 Email: mdriadshekh586@gmail.com
+- 💻 GitHub: [github.com/your-username  ](github.com/djriad157764-creator)
+- 🌐 Portfolio: [https://your-portfolio-link.com ](https://personal-portfolio-five-theta-65.vercel.app/) 
 
 ---
 
