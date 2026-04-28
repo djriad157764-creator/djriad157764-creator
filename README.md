@@ -2,6 +2,8 @@
 
 🚀 Frontend Developer | React.js | Next.js | UI Enthusiast
 
+![alt text](https://i.ibb.co.com/5X4sD47X/riad.png)
+
 ---
 
 ## 🧑‍💻 About Me
