@@ -1,16 +1,65 @@
-## Hi there 👋
+# 👋 Hi, I'm Dj Riad
 
-<!--
-**djriad157764-creator/djriad157764-creator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Frontend Developer | React.js | Next.js | UI Enthusiast
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧑‍💻 About Me
+I am a passionate Frontend Developer focused on building modern, responsive, and user-friendly web applications.  
+I enjoy creating clean UI designs, smooth animations, and performance-optimized web apps using modern technologies.
+
+---
+
+## ⚡ Tech Stack
+
+- HTML5 | CSS3 | JavaScript (ES6)
+- React.js | Next.js
+- Tailwind CSS | DaisyUI | HeroUI
+- Git & GitHub
+- REST API Integration
+- Responsive Web Design
+
+---
+
+## 📌 What I Do
+
+- 🎯 Build modern web applications
+- 🎨 Create clean and responsive UI
+- ⚡ Add smooth animations and interactions
+- 🌐 Develop full frontend projects with React & Next.js
+
+---
+
+## 📂 Featured Projects
+
+### 🌟 Portfolio Website
+A modern personal portfolio built with React and Tailwind CSS featuring smooth animations and responsive design.
+
+### 🛠️ UI Components Library
+Reusable UI components built using Tailwind CSS and DaisyUI for faster development.
+
+---
+
+## 📈 Goals
+
+- Master Advanced React & Next.js
+- Improve UI/UX and animation skills
+- Build real-world production-level projects
+- Contribute to open-source projects
+
+---
+
+## 📫 Contact Me
+
+- 📧 Email: your-email@example.com  
+- 💻 GitHub: https://github.com/your-username  
+- 🌐 Portfolio: https://your-portfolio-link.com  
+
+---
+
+## ⚡ Fun Fact
+I love turning ideas into clean, modern, and interactive web experiences.
+
+---
+
+⭐ Thanks for visiting my profile!
