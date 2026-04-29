@@ -35,8 +35,8 @@ I enjoy creating clean UI designs, smooth animations, and performance-optimized 
 ## 📂 Featured Projects
 
 ### 📌 Project One (Portfolio)
- >🚀 A modern, interactive, and highly performant personal portfolio web application.
- >[Portfolio link](https://personal-portfolio-five-theta-65.vercel.app/)
+ >🚀 A modern, interactive, and highly performant personal portfolio web application. <br/>
+ >[Portfolio link](https://personal-portfolio-five-theta-65.vercel.app/) <br/>
  >🛠️ Technology:
 Framework: Next.js 16 (App Router)
 Library: React 19
@@ -47,14 +47,24 @@ Smooth Scrolling: Lenis
 ---
 
 ### 📌 Project Two (Coming Soon)
-> 🚧 Description will be added soon  
-Tech Stack: Next.js | Tailwind | Framer Motion  
+> 🚀 A modern, interactive, and highly performant personal portfolio web application
+🛠️ Technology:
+Framework: Next.js 16 (App Router)
+Library: React 19
+Styling: Tailwind CSS 4
+Animations: GSAP & @gsap/react
+Smooth Scrolling: Lenis
 
 ---
 
 ### 📌 Project Three (Coming Soon)
-> 🚧 Description will be added soon  
-Tech Stack: React | Firebase | REST API  
+> 🚀 A modern, interactive, and highly performant personal portfolio web application
+🛠️ Technology:
+Framework: Next.js 16 (App Router)
+Library: React 19
+Styling: Tailwind CSS 4
+Animations: GSAP & @gsap/react
+Smooth Scrolling: Lenis
 
 ---
 
