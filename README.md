@@ -34,9 +34,14 @@ I enjoy creating clean UI designs, smooth animations, and performance-optimized 
 
 ## 📂 Featured Projects
 
-### 🌟 Project One (Coming Soon)
-> 🚧 Description will be added soon  
-Tech Stack: React | Tailwind | API  
+### 🌟 Project One (Portfolio)
+ 🚧 A modern, interactive, and highly performant personal portfolio web application.
+  * Technology:
+Framework: Next.js 16 (App Router)
+Library: React 19
+Styling: Tailwind CSS 4
+Animations: GSAP & @gsap/react
+Smooth Scrolling: Lenis
 
 ---
 
