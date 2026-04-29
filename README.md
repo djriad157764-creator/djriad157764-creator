@@ -35,9 +35,9 @@ I enjoy creating clean UI designs, smooth animations, and performance-optimized 
 ## 📂 Featured Projects
 
 ### 📌 Project One (Portfolio)
- 🚀 A modern, interactive, and highly performant personal portfolio web application.
- [Portfolio link](https://personal-portfolio-five-theta-65.vercel.app/)
- 🛠️ Technology:
+ >🚀 A modern, interactive, and highly performant personal portfolio web application.
+ >[Portfolio link](https://personal-portfolio-five-theta-65.vercel.app/)
+ >🛠️ Technology:
 Framework: Next.js 16 (App Router)
 Library: React 19
 Styling: Tailwind CSS 4
