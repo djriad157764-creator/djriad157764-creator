@@ -57,114 +57,77 @@ I'm a passionate Frontend Developer focused on building modern, responsive, and 
 
 ---
 
-## 📂 Pinned Repositories
 
-### 1. [Personal Portfolio](https://github.com/djriad157764-creator/portfolio)
+## 📂 Featured Projects
 
-**Description:**  
-Modern, interactive, and highly performant personal portfolio web application.  
-🔗 [Live Demo](https://personal-portfolio-five-theta-65.vercel.app/)  
-🛠️ **Tech:** Next.js 16, React 19, Tailwind CSS 4, GSAP, Lenis
+### 📌 Project One ([Portfolio](https://personal-portfolio-five-theta-65.vercel.app/))
+🚀 A modern, interactive, and highly performant personal portfolio web application. <br/>
 
-**Dependencies:**
-```json
-"next": "16",
-"react": "19",
-"tailwindcss": "4",
-"gsap": "^3.12",
-"@gsap/react": "^2.1",
-"lenis": "^1.0"
+🔗 [Portfolio link](https://personal-portfolio-five-theta-65.vercel.app/) <br/>
+
+🛠️ Technology: <br/>
+* Framework: Next.js 16 (App Router) <br/>
+* Library: React 19 <br/>
+* Styling: Tailwind CSS 4<br/>
+* Animations: GSAP & @gsap/react <br/>
+* Smooth Scrolling: Lenis 
+
+---
+
+### 📌 Project Two ([Book-Vibe](https://books-vibe-ten.vercel.app/))
+ 🚀 Book Vibe is an engaging and user-friendly web application tailored for book lovers! It allows users to explore a vast collection of books, view detailed information, rate their favorites, and curate personalized reading lists (like "Read" and "Wishlist"). The platform goes a step further by integrating interactive charts to visualize your reading progress and features an intelligent AI Chatbot powered by Google Gemini to assist you with book recommendations and queries. <br/>
+ 
+🔗 Book-Vibe :  [Project link](https://books-vibe-ten.vercel.app/) <br/>
+
+🛠️ Technology: 
+* Frontend: React.js (v19)
+* Build Tool: Vite
+* Styling: Tailwind CSS & DaisyUI
+* Routing: React Router v7
+* Data Visualization: Recharts
+* AI Integration: Google Generative AI (Gemini)
+* Notifications: React Hot Toast
+* Icons & Markdown: React Icons, React Markdown
 
 
+---
 
-bash
-git clone https://github.com/djriad157764-creator/portfolio.git
-cd portfolio
-npm install
-npm run dev
-2. Book-Vibe
-Description:
-Book discovery app with AI chatbot (Google Gemini), reading lists, and charts.
-🔗 Live Demo
-🛠️ Tech: React 19, Vite, Tailwind CSS, DaisyUI, React Router v7, Recharts, Google Gemini AI
+### 📌 Project Three ([Fitness Landing Page](https://fitness-landing-page-chi-eight.vercel.app/)) 
+🚀 A modern and fully responsive Fitness Landing Page built with React and Tailwind CSS. This project demonstrates a clean UI design with multiple sections focused on fitness, workouts, and team introduction. <br/>
 
-Dependencies:
+🔗 Fitness Landing Page : [Project Link](https://fitness-landing-page-chi-eight.vercel.app/) <br/>
 
-json
-"react": "^19",
-"react-router-dom": "^7",
-"recharts": "^2",
-"@google/generative-ai": "^0.1",
-"react-hot-toast": "^2",
-"react-icons": "^5",
-"react-markdown": "^9"
-Run locally:
+🛠️ Technology:
+* HTML5
+* CSS3
+* Tailwind
+* CSS
+* DaisyUI
+* React.js
 
-bash
-git clone https://github.com/djriad157764-creator/book-vibe.git
-cd book-vibe
-npm install
-# Create .env file with your GOOGLE_GEMINI_API_KEY
-npm run dev
-3. Fitness Landing Page
-Description:
-Modern and fully responsive fitness landing page with smooth UI.
-🔗 Live Demo
-🛠️ Tech: React, Tailwind CSS, DaisyUI
+---
 
-Dependencies:
+## 📈 Goals
 
-json
-"react": "^18",
-"tailwindcss": "^3",
-"daisyui": "^4"
-Run locally:
+- Master Advanced React & Next.js
+- Improve UI/UX and animation skills
+- Build real-world production-level projects
+- Contribute to open-source projects
 
-bash
-git clone https://github.com/djriad157764-creator/fitness-landing.git
-cd fitness-landing
-npm install
-npm run dev
-⚡ Fun Fact
+---
+
+## 📫 Contact Me
+
+- 📧 Email: mdriadshekh586@gmail.com
+- 💻 GitHub: [github.com/djriad157764-creator](https://github.com/djriad157764-creator)
+- 🌐 Portfolio: [https://your-portfolio-link.com ](https://personal-portfolio-five-theta-65.vercel.app/) 
+
+---
+
+## ⚡ Fun Fact
 I love turning ideas into clean, modern, and interactive web experiences.
+
+---
 
 ⭐ Thanks for visiting my profile!
 
-text
-
----
-
-## ✅ What was added/fixed:
-
-| Requirement | Status |
-|-------------|--------|
-| Profile picture (semi-formal) | ✅ Added |
-| Location + Email | ✅ Added |
-| Banner image | ✅ Already there |
-| Name & designation | ✅ Already there |
-| About Me section | ✅ Already there |
-| Current activities (bullet points) | ✅ Added examples |
-| Skill icons (no bullet points) | ✅ Added badges with icons |
-| Social links (LinkedIn, Snapchat, TikTok) | ✅ Added |
-| GitHub stats (streak, languages) | ✅ Added |
-| 3 pinned repos | ✅ Already there |
-| Dependencies in each repo description | ✅ Added |
-| Local machine run guidelines | ✅ Added |
-| Live links | ✅ Already there |
-| Screenshot (optional - you need to add manually in each repo's README) | ⚠️ You add inside each repo |
-
----
-
-## 📌 Reminder:
-
-For **each pinned repository**, you must also create a separate `README.md` inside that repo containing:
-- Screenshot
-- Main technologies
-- Main features
-- Dependencies list
-- Local run guide
-- Live link
-
-But the **main profile README** above already covers the high-level requirements for pinned repos.
-
-Let me know if you want me to generate a **sample README for any specific repository** as well.
