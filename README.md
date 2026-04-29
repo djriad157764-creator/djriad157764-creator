@@ -37,34 +37,34 @@ I enjoy creating clean UI designs, smooth animations, and performance-optimized 
 ### 📌 Project One (Portfolio)
  >🚀 A modern, interactive, and highly performant personal portfolio web application. <br/>
  >[Portfolio link](https://personal-portfolio-five-theta-65.vercel.app/) <br/>
- >🛠️ Technology:
-Framework: Next.js 16 (App Router)
-Library: React 19
-Styling: Tailwind CSS 4
-Animations: GSAP & @gsap/react
-Smooth Scrolling: Lenis
+ >🛠️ Technology: <br/>
+* Framework: Next.js 16 (App Router) <br/>
+* Library: React 19 <br/>
+* Styling: Tailwind CSS 4<br/>
+* Animations: GSAP & @gsap/react <br/>
+* Smooth Scrolling: Lenis 
 
 ---
 
 ### 📌 Project Two (Coming Soon)
-> 🚀 A modern, interactive, and highly performant personal portfolio web application
-🛠️ Technology:
-Framework: Next.js 16 (App Router)
-Library: React 19
-Styling: Tailwind CSS 4
-Animations: GSAP & @gsap/react
-Smooth Scrolling: Lenis
+> 🚀 A modern, interactive, and highly performant personal portfolio web application <br/>
+🛠️ Technology: <br/>
+* Framework: Next.js 16 (App Router) <br/>
+* Library: React 19 <br/>
+* Styling: Tailwind CSS 4<br/>
+* Animations: GSAP & @gsap/react <br/>
+* Smooth Scrolling: Lenis 
 
 ---
 
-### 📌 Project Three (Coming Soon)
-> 🚀 A modern, interactive, and highly performant personal portfolio web application
-🛠️ Technology:
-Framework: Next.js 16 (App Router)
-Library: React 19
-Styling: Tailwind CSS 4
-Animations: GSAP & @gsap/react
-Smooth Scrolling: Lenis
+### 📌 Project Three (Coming Soon) 
+> 🚀 A modern, interactive, and highly performant personal portfolio web application <br/>
+🛠️ Technology: <br/>
+* Framework: Next.js 16 (App Router) <br/>
+* Library: React 19 <br/>
+* Styling: Tailwind CSS 4<br/>
+* Animations: GSAP & @gsap/react <br/>
+* Smooth Scrolling: Lenis  
 
 ---
 
