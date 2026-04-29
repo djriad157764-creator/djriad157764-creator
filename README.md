@@ -34,10 +34,10 @@ I enjoy creating clean UI designs, smooth animations, and performance-optimized 
 
 ## 📂 Featured Projects
 
-### 📌 Project One (Portfolio)
- >🚀 A modern, interactive, and highly performant personal portfolio web application. <br/>
- >[Portfolio link](https://personal-portfolio-five-theta-65.vercel.app/) <br/>
- >🛠️ Technology: <br/>
+### 📌 Project One ([Portfolio](https://personal-portfolio-five-theta-65.vercel.app/))
+🚀 A modern, interactive, and highly performant personal portfolio web application. <br/>
+🔗 [Portfolio link](https://personal-portfolio-five-theta-65.vercel.app/) <br/>
+🛠️ Technology: <br/>
 * Framework: Next.js 16 (App Router) <br/>
 * Library: React 19 <br/>
 * Styling: Tailwind CSS 4<br/>
@@ -48,7 +48,7 @@ I enjoy creating clean UI designs, smooth animations, and performance-optimized 
 
 ### 📌 Project Two ([Book-Vibe](https://books-vibe-ten.vercel.app/))
  🚀 Book Vibe is an engaging and user-friendly web application tailored for book lovers! It allows users to explore a vast collection of books, view detailed information, rate their favorites, and curate personalized reading lists (like "Read" and "Wishlist"). The platform goes a step further by integrating interactive charts to visualize your reading progress and features an intelligent AI Chatbot powered by Google Gemini to assist you with book recommendations and queries. <br/>
-> Book-Vibe :  [Project link](https://books-vibe-ten.vercel.app/) <br/>
+🔗 Book-Vibe :  [Project link](https://books-vibe-ten.vercel.app/) <br/>
 🛠️ Technology: 
 * Frontend: React.js (v19)
 * Build Tool: Vite
@@ -63,14 +63,15 @@ I enjoy creating clean UI designs, smooth animations, and performance-optimized 
 ---
 
 ### 📌 Project Three ([Fitness Landing Page](https://fitness-landing-page-chi-eight.vercel.app/)) 
-> 🚀 A modern and fully responsive Fitness Landing Page built with React and Tailwind CSS. This project demonstrates a clean UI design with multiple sections focused on fitness, workouts, and team introduction. <br/>
-Fitness Landing Page : [Project Link](https://fitness-landing-page-chi-eight.vercel.app/)
-🛠️ Technology: <br/>
-* Framework: Next.js 16 (App Router) <br/>
-* Library: React 19 <br/>
-* Styling: Tailwind CSS 4<br/>
-* Animations: GSAP & @gsap/react <br/>
-* Smooth Scrolling: Lenis  
+🚀 A modern and fully responsive Fitness Landing Page built with React and Tailwind CSS. This project demonstrates a clean UI design with multiple sections focused on fitness, workouts, and team introduction. <br/>
+🔗 Fitness Landing Page : [Project Link](https://fitness-landing-page-chi-eight.vercel.app/)
+🛠️ Technology:
+* HTML5
+* CSS3
+* Tailwind
+* CSS
+* DaisyUI
+* React.js
 
 ---
 
