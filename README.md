@@ -49,7 +49,7 @@ I'm a passionate Frontend Developer focused on building modern, responsive, and 
 
 ## 🔗 Social Links
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](www.linkedin.com/in/riad-shekh)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/riad-shekh)
 [![Snapchat](https://img.shields.io/badge/Snapchat-FFFC00?logo=snapchat&logoColor=black)](https://snapchat.com/add/yourusername)
 [![TikTok](https://img.shields.io/badge/TikTok-000000?logo=tiktok&logoColor=white)](https://tiktok.com/@yourusername)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/djriad157764-creator)
