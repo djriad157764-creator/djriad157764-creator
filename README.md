@@ -46,8 +46,9 @@ I enjoy creating clean UI designs, smooth animations, and performance-optimized 
 
 ---
 
-### 📌 Project Two (Coming Soon)
-> 🚀 A modern, interactive, and highly performant personal portfolio web application <br/>
+### 📌 Project Two ([Book-Vibe](https://books-vibe-ten.vercel.app/))
+> 🚀 Book Vibe is an engaging and user-friendly web application tailored for book lovers! It allows users to explore a vast collection of books, view detailed information, rate their favorites, and curate personalized reading lists (like "Read" and "Wishlist"). The platform goes a step further by integrating interactive charts to visualize your reading progress and features an intelligent AI Chatbot powered by Google Gemini to assist you with book recommendations and queries. <br/>
+> Book-Vibe :  [Project link](https://books-vibe-ten.vercel.app/) <br/>
 🛠️ Technology: <br/>
 * Framework: Next.js 16 (App Router) <br/>
 * Library: React 19 <br/>
